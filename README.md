@@ -6,7 +6,7 @@ Cookiecutter docs [here](https://cookiecutter.readthedocs.io/en/latest/readme.ht
 
 ## Usage
 
-This command will generate folder in current dir after anwsers on user promts:
+This command will generate folder in current dir after anwsers on user prompts:
 
 `docker run --rm -v $(pwd):/user/local -it macejiko/dcc <https_path_to_git_repo>`
 
