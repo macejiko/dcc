@@ -1,4 +1,4 @@
-# Dockerised Cookiecutter
+# Dockerized Cookiecutter
 
 > python-alpine image with installed cookiecutter
 
